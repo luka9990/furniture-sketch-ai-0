@@ -1,6 +1,0 @@
-# Dodaj u postojeći requirements.txt ako već nisu navedeni
-openai>=1.68.0
-pandas>=2.2.0
-Pillow>=10.0.0
-PyMuPDF>=1.24.0
-reportlab>=4.2.0
